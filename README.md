@@ -7,3 +7,6 @@ The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days
 - 🧑‍💻 The Blog Templating Flask/Jinja/Python project shows how to use Jinja to exploit Python code within a html document to order to lever templating aspects of the document.  A simple class was implemented as a data store so that methods requiring access to identical data will have access. npoint.io is used here to create an api quickly for a more realistic simulation.
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me ... Twitter: @WSpanfelner
+
+[![Twitter: WSpanfelner](https://img.shields.io/twitter/follow/wspanfelner?style=plastic&logo=twitter&labelColor=success&logoColor=white)](https://twitter.com/WSpanfelner)
+[![Linkedin: wspanfelner](https://img.shields.io/badge/-William_Spanfelner-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wspanfelner)](https://www.linkedin.com/in/wspanfelner)
