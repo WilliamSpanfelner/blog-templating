@@ -1,3 +1,4 @@
+![Screenshot](day-57-Blog-templating.png)
 # Blog Templating Project with npoint.io, Flask and Jinja
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
